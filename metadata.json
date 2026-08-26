@@ -1,0 +1,6 @@
+{
+  "name": "OwnShop",
+  "description": "Local marketplace connecting customers with verified local businesses, sellers, and service providers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

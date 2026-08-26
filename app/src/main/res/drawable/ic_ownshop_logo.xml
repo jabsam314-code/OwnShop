@@ -1,0 +1,92 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="160dp"
+    android:viewportWidth="240"
+    android:viewportHeight="160">
+
+    <!-- Top Shopping Bag Handles (Green) -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#00875A"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M106,20 C106,8 134,8 134,20" />
+
+    <!-- Top Bag Fold Shadow / Flap (Green) -->
+    <path
+        android:fillColor="#00875A"
+        android:pathData="M98,20 L142,20 L137,27 L103,27 Z" />
+
+    <!-- Monogram O Ring (Deep Navy Blue) -->
+    <path
+        android:fillColor="#0B2545"
+        android:pathData="M104,50 C104,38.95 112.95,30 124,30 C125.5,30 127,30.2 128.4,30.5 L126.8,36.3 C125.9,36.1 125,36 124,36 C116.27,36 110,42.27 110,50 C110,57.73 116.27,64 124,64 C128.8,64 133,61.6 135.5,57.9 L140.4,61.4 C136.7,66.7 130.7,70 124,70 C112.95,70 104,61.05 104,50 Z" />
+
+    <!-- Mini Green Bag in Cart -->
+    <path
+        android:fillColor="#00875A"
+        android:pathData="M118,43 L130,43 L128,52 L120,52 Z" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#00875A"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M122,43 C122,40 126,40 126,43" />
+
+    <!-- Cart Basket (Navy) -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#0B2545"
+        android:strokeWidth="2.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M113,46 L115,46 L118,56 L131,56 L133,49 L116,49" />
+    <!-- Cart Slat -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#0B2545"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:pathData="M118,52.5 L131,52.5" />
+    <!-- Cart Wheels -->
+    <path
+        android:fillColor="#0B2545"
+        android:pathData="M119,60 A 1.8,1.8 0 1,0 119,56.4 A 1.8,1.8 0 1,0 119,60 Z" />
+    <path
+        android:fillColor="#0B2545"
+        android:pathData="M129,60 A 1.8,1.8 0 1,0 129,56.4 A 1.8,1.8 0 1,0 129,60 Z" />
+
+    <!-- Monogram S (Emerald Green, Intertwined) -->
+    <path
+        android:fillColor="#00875A"
+        android:pathData="M140,34 C137,31 132,30 127,30 L127,36.5 C130,36.5 133,37.2 135,39 C137,40.8 137.5,43.2 136,45.5 C134.5,47.8 130.5,49.5 126,51 C120,53 114,56 114,62 C114,67.5 118.5,72 125,72 C130,72 136,70 140,65.5 L135.5,61 C132.5,64 128.5,65.8 125,65.8 C121.5,65.8 120,63.5 120,61.8 C120,59.8 123,58.2 127.5,56.5 C134,54 141,50.5 141,42.5 C141,39 140.5,36.5 140,34 Z" />
+
+    <!-- Dynamic Tricolor Ribbon Swoosh Underneath -->
+    <!-- Saffron Wave (Top) -->
+    <path
+        android:fillColor="#FF8C00"
+        android:pathData="M88,67 C100,76 118,75 136,68 C141,66 144,65 147,67 C140,70 122,80 88,67 Z" />
+
+    <!-- White Center Wave -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M92,70.5 C104,78.5 118,77.5 134,71 C139,69 142,68 145,69.5 C138,72.5 120,81.5 92,70.5 Z" />
+
+    <!-- India Green Bottom Wave -->
+    <path
+        android:fillColor="#138808"
+        android:pathData="M96,74 C106,81 118,80 132,74 C136,72 139,71 142,72.5 C136,75.5 118,84 96,74 Z" />
+
+    <!-- Ashoka Chakra -->
+    <path
+        android:fillColor="#000080"
+        android:pathData="M116,76 A 3.2,3.2 0 1,0 116,69.6 A 3.2,3.2 0 1,0 116,76 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M116,74.5 A 1.7,1.7 0 1,0 116,71.1 A 1.7,1.7 0 1,0 116,74.5 Z" />
+    <path
+        android:fillColor="#000080"
+        android:pathData="M116,73.5 A 0.7,0.7 0 1,0 116,72.1 A 0.7,0.7 0 1,0 116,73.5 Z" />
+
+</vector>
